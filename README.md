@@ -105,6 +105,4 @@ The `dist/` folder is a fully static build — drop it onto any host:
 | `#/bag` | Shopping bag — items, quantity, order summary |
 | `#/shipping-and-return` | Shipping & returns policy |
 
----
 
-*Original design by [++hellohello](https://www.hellohello.is). This is a front-end demonstration clone.*
