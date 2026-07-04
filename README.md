@@ -1,7 +1,5 @@
 # OUTFIT® — Store Clone
 
-> A high-fidelity clone of [outfit.hellohello.is](https://outfit.hellohello.is/) built with plain HTML, CSS, and Vanilla JavaScript.
-
 ## 🚀 Live Demo
 
 **[https://outfit-shopping.netlify.app](https://outfit-shopping.netlify.app)**
